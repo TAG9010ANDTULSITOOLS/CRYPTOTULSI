@@ -1,47 +1,71 @@
-# CRYPTOTULSI
+# FREEDOMWARE PROJECTS
 
-CRYPTOTULSI is a revolutionary privacy-first, decentralized, anonymous cryptocurrency and P2P freedom network.
+> Built for freedom. Powered by truth. Licensed for everyone.
 
-Designed for:
-- Total user sovereignty
-- Easy CPU mining
-- 100% decentralized control
-- Integrated VPN functionality
-- Built-in verification tools through TULSI BLIND MODE
+This collection of tools is created to fight back against systemic control, mass surveillance, and technological oppression.
+
+These projects are built using A.I assistance combined with human vision — to accelerate humanity's move toward privacy, autonomy, and dignity.
 
 ---
 
-## Features
+## 🔥 The Projects
 
-- 🔥 CPU Mining
-- 🔥 Anonymous Decentralized Blockchain
-- 🔥 Integrated Dynamic VPN Routing
-- 🔥 Encrypted P2P Networking
-- 🔥 Dark Mode GUI
-- 🔥 Source Code Viewing Button
-- 🔥 TULSI BLIND MODE (Blind Code Editing Verification System)
+- **TULSIFOXZERO**  
+  A browser focused on full anonymity, no microphones or cameras, MAC address randomization, and built-in ad-blocking.
 
----
+- **TULSITHECONVERTER**  
+  A tool to paste code and rebuild it with a new GUI, encryption, and icon — creating a stronger, more secure version.
 
-## TULSI BLIND MODE
+- **CRYPTOTULSI**  
+  A cryptocurrency designed for anonymous transactions without wallets, merging VPN-like networking directly into the network itself.
 
-A world-first verification system allowing users to "touch" code blindly by editing basic symbols only,  
-verifying the true internal source code integrity without trusting visual output alone.
+- **TULSITHEDemocracyHunter**  
+  A scanner to detect telemetry, spyware, and hidden backdoors in any code you paste — fighting hidden surveillance.
 
----
-
-## License
-
-This project is licensed under the **TAG9010 License**.  
-See the [LICENSE.txt](LICENSE.txt) file for full details.
+- **TULSICHAT**  
+  A privacy-first communications platform with a transparent \"View Source Code\" feature and \"Tulsi Blind Mode\" live code authentication.
 
 ---
 
-## Author
+## 🛠️ Special Features
 
-Created and envisioned by **TAG9010**.  
-Inspired by direct communications with global intelligence agencies, political systems, and the drive for a truly free humanity.
+- **View Source Code Button**  
+  See the code live and verify that it matches what is really running inside.
+
+- **Tulsi Blind Mode**  
+  Open a second window where you can safely corrupt symbols to generate errors. Compare errors with an external IDE like VSCodium. If errors match, the source code is authentic.
 
 ---
 
-**Freedom First. Surveillance Last. Humanity Rebuilt.**
+## 🚀 Project Status
+
+All projects are in early development.  
+They need improvements, contributions, and testing from people who believe in freedom.
+
+Anyone is free to use, modify, and redistribute them under the MIT License.
+
+---
+
+## ⚡ License
+
+These projects are released under the **MIT License**.  
+You have full rights to:
+- Use
+- Modify
+- Distribute
+- Commercialize
+
+Freedom first — no restrictions.
+
+---
+
+## ✊ About the Creator
+
+Built by **TAG9010**, founder of the FREEDOMWARE initiative.
+
+Because freedom belongs to the builders — not the bureaucrats.
+
+---
+
+> “If we complete these systems, no tyrant can ever lock humanity down again.”  
+> — TAG9010
